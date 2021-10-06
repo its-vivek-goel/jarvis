@@ -1,0 +1,28 @@
+Feature To Add In Jarvis - 
+
+
+1. Open system folder (system_folder.py) - like downloads , documents , video ,music 
+
+2. Open social media (social_media.py) - like facebook , instagarm , whatsaap , gmail , stackoverflow , 
+
+3. Online search (online_search.py) - Translate sentence , word meaning , search in wikipedia , Search in gogle ,
+
+4. Open System apps (system_app) - like cmd , notepad , calculator , chrome 
+
+5.  System task (system_task.py) - take screenshot , word calculation , write a note , switch the window
+
+6. 
+
+7. Informative (information.py) - Joke Telling , News , weather , time , date 
+
+8. Sending mail 
+
+9.  
+
+10. Play music  
+
+11.   
+
+12. System action  (system_action.py) - sleep , shut down , restart 
+
+13. Conversation with chatbot (chatbot.py) - like hii , who r u , who made you 

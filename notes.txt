@@ -1,0 +1,22 @@
+#module require 
+
+1. pyttsx3 - it provide engine , which convert text to voice 
+
+            To install - pip install pyttsx3
+
+
+2. speech recognition - use to interact system with voice , convert the voice to machine readable language 
+
+            To install - pip install SpeechRecognition
+
+
+3. datetime - 
+
+4. os - 
+
+5. web browser - 
+
+6. opencv - use for excessing camera
+
+
+#python -m PyQt5.uic.pyuic -x qt1.ui -o qt1.py --> to convert .ui to py
